@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/projects/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/projects/deporte-salud-oportunidades-para-jovenes-deportistas</loc>
+  </url>
+  <url>
+    <loc>http://localhost/projects/gestion-integral-de-residuos-solidos-melgar</loc>
+  </url>
+  <url>
+    <loc>http://localhost/projects/programa-posconsumo-para-el-aceite-cocina-usado</loc>
+  </url>
+</urlset>
