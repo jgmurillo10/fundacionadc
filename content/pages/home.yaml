@@ -1,0 +1,29 @@
+$title@: Inicio
+$path: /{root}/
+$order: 1
+$localization:
+  path: /intl/{locale}/{root}  
+description@: Fundación ADC
+
+composite_files:
+- home
+
+partials:
+- partial: hero
+  title@: Lideramos <span class="green-heading-bg">proyectos sostenibles</span> que aportan a nuestras comunidades y al país
+  image: /static/images/projects/project3.jpeg
+- partial: projects
+  heading: Proyectos
+  projects:
+    - title: Gestión Integral de Residuos Sólidos para la comunidad de Campo Guando en Melgar - Tolima
+      image: /static/images/projects/project1-main.jpeg
+      description: Proyecto sostenible para solucionar la problemática ambiental y a la salud, ocasionada por el inadecuado manejo y disposición final de los residuos sólidos generados en 9 veredas del Municipio de Melgar - Tolima. 
+      link: !g.doc /content/pages/projects/project1.yaml
+    - title: Deporte, salud y oportunidades para jóvenes deportistas
+      image: /static/images/projects/project2-main.jpeg
+      description: Proyecto encaminado a estimular y apoyar a jóvenes entre 19 y 23 años que estuvieron vinculados al fútbol a nivel profesional y que por su edad no lograron continuar con su proceso pero tendrán la oportunidad de ir a España
+      link: !g.doc /content/pages/projects/project2.yaml
+    - title: Programa Posconsumo para el ACU (Aceite de Cocina Usado) “Ni una gota más” en el Municipio de Girardot
+      image: /static/images/projects/project3-main.jpeg
+      description: Este programa busca mitigar los impactos ambientales y a la salud generados por el inadecuado manejo y tráfico ilegal del Aceite de Cocina Usado en el Municipio de Girardot
+      link: !g.doc /content/pages/projects/project3.yaml

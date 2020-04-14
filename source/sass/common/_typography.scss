@@ -1,0 +1,44 @@
+@import './breakpoints';
+
+.is-heading-1,
+.is-heading-2,
+.is-heading-3 {
+  @include bp(m) {
+    text-align: center;
+  }
+}
+
+
+.is-heading-1 {
+  font-size: 32px;
+  line-height: 1.1;
+
+  @include bp(l) {
+    font-size: 40px
+  }
+}
+
+.is-heading-2 {
+  font-size: 24px;
+
+  @include bp(l) {
+    font-size: 36px;
+  }
+}
+
+.is-heading-3 {
+  font-size: 22px;
+
+  @include bp(l) {
+    font-size: 32px;
+  }
+}
+
+.is-body {
+  font-size: 18px;
+  line-height: 1.5;
+
+  @include bp(l) {
+    font-size: 20px;
+  }
+}

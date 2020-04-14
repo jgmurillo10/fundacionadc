@@ -1,0 +1,14 @@
+<header class="header">
+  <nav class="nav">
+    <a href="/" aria-label="inicio">
+      <img class="header__image" src="/static/images/logo.png" alt="">
+    </a>
+    <ul class="nav__items">
+    {% for item in g.docs('pages') %}
+      <li class="nav__item {{"nav__item--active" if doc == item}}">
+      <a href="{{item.url.path}}" aria-label="{{_(item.title)}}">{{_(item.title)}}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </nav>
+</header>

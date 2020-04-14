@@ -1,0 +1,32 @@
+grow_version: ">=0.2.5"
+
+title@: "Fundación ADC | Ambiente Desarrollo & Calidad"
+
+home: /content/pages/home.yaml
+
+localization:
+  default_locale: es
+
+meta:
+  google_analytics_id: "UA-151322260-1"
+  google_site_verification: ""
+  image: /static/images/projects/project3.jpeg
+  favicon_path: /static/images/favicon.png
+
+preprocessors:
+- kind: gulp
+  build_task: grow-build
+  command: "./node_modules/gulp/bin/gulp.js"
+
+static_dirs:
+- static_dir: /static/
+  serve_at: /static/
+- static_dir: /dist/css/
+  serve_at: /css/
+  fingerprinted: false
+- static_dir: /dist/js/
+  serve_at: /js/
+  fingerprinted: false
+
+sitemap:
+  enabled: true

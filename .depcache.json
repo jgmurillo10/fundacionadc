@@ -1,0 +1,68 @@
+{
+  "/content/pages/home.yaml": [
+    "/content/pages/home.yaml",
+    "/content/pages/projects.yaml",
+    "/content/pages/projects/project1.yaml",
+    "/content/pages/projects/project2.yaml",
+    "/content/pages/projects/project3.yaml",
+    "/dist/css/composite/global.min.css",
+    "/dist/js/composite/global.min.js",
+    "/dist/js/composite/home.min.js",
+    "/partials/header/header.html",
+    "/partials/hero/hero.html",
+    "/partials/projects/project-thumb.html",
+    "/partials/projects/projects.html",
+    "/static/images/favicon.png",
+    "/static/images/projects/project3.jpeg",
+    "/views/inc/_social.html"
+  ],
+  "/content/pages/projects.yaml": [
+    "/content/pages/home.yaml",
+    "/content/pages/projects.yaml",
+    "/content/pages/projects/project1.yaml",
+    "/content/pages/projects/project2.yaml",
+    "/content/pages/projects/project3.yaml",
+    "/dist/css/composite/global.min.css",
+    "/dist/js/composite/global.min.js",
+    "/partials/header/header.html",
+    "/partials/hero/hero.html",
+    "/partials/projects/project-thumb.html",
+    "/partials/projects/projects.html",
+    "/static/images/favicon.png",
+    "/static/images/projects/project3.jpeg",
+    "/views/inc/_social.html"
+  ],
+  "/content/pages/projects/project1.yaml": [
+    "/content/pages/home.yaml",
+    "/content/pages/projects.yaml",
+    "/dist/css/composite/global.min.css",
+    "/dist/js/composite/global.min.js",
+    "/partials/header/header.html",
+    "/partials/project/project.html",
+    "/static/images/favicon.png",
+    "/static/images/projects/project3.jpeg",
+    "/views/inc/_social.html"
+  ],
+  "/content/pages/projects/project2.yaml": [
+    "/content/pages/home.yaml",
+    "/content/pages/projects.yaml",
+    "/dist/css/composite/global.min.css",
+    "/dist/js/composite/global.min.js",
+    "/partials/header/header.html",
+    "/partials/project/project.html",
+    "/static/images/favicon.png",
+    "/static/images/projects/project3.jpeg",
+    "/views/inc/_social.html"
+  ],
+  "/content/pages/projects/project3.yaml": [
+    "/content/pages/home.yaml",
+    "/content/pages/projects.yaml",
+    "/dist/css/composite/global.min.css",
+    "/dist/js/composite/global.min.js",
+    "/partials/header/header.html",
+    "/partials/project/project.html",
+    "/static/images/favicon.png",
+    "/static/images/projects/project3.jpeg",
+    "/views/inc/_social.html"
+  ]
+}

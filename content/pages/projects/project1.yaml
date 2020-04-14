@@ -1,0 +1,17 @@
+$title@: Gestión Integral de Residuos Sólidos para la comunidad de Campo Guando en Melgar - Tolima
+$path: /{root}/projects/gestion-integral-de-residuos-solidos-melgar
+description@: Proyecto sostenible para solucionar la problemática ambiental y a la salud, ocasionada por el inadecuado manejo y disposición final de los residuos sólidos generados en 9 veredas del Municipio de Melgar - Tolima. 
+
+partials:
+- partial: project
+  title@: <span class="green-heading-bg">Gestión Integral de Residuos Sólidos</span> para la comunidad de Campo Guando en Melgar - Tolima
+  images: 
+    - /static/images/projects/project1-main.jpeg
+    - /static/images/projects/project1.jpg
+  body: |
+    Conociendo la problemática ambiental presentada en estas veredas por la falta del servicio de recolección de residuos por la empresa Ser Ambiental y en alianza con Sentido Verde se diseña un proyecto sostenible para aportar a la solución del manejo de los residuos sólidos generados en las veredas.
+ 
+    El primero (1) de febrero, parte del equipo de la Fundación y el líder Wolf Schellenbach visitan al ingeniero encargado de HSEQ y ambiente para hacerle presentación formal del proyecto a la petrolera Perenco, quienes manifestaron la aceptación del mismo y su interés por participar en él, pero solicitan buscar apoyo económico a otra entidad ya sea pública o privada, pues no quieren ser los únicos con la responsabilidad del proyecto. 
+
+    A pesar de todos los esfuerzos realizados por parte de la Fundación para darle viabilidad a este proyecto, no fue posible lograr su ejecución. Perenco mostró disposición y apoyo al proyecto, sin embargo, de parte de la Alcaldía del municipio de Melgar se dio negativa a la implementación. Asumimos que el cambio y/o elecciones del momento no contribuyó a la aprobación e implementación del proyecto. 
+
