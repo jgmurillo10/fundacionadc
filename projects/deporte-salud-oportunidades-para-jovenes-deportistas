@@ -8,16 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, minimal-ui">
     <title>Deporte, salud y oportunidades para jóvenes deportistas – Fundación ADC | Ambiente Desarrollo &amp; Calidad</title>
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://localhost/static/images/social.jpg">
-<meta name="twitter:title" content="Home – Change the Game">
-<meta name="twitter:url" content="Deporte, salud y oportunidades para jóvenes deportistas – Fundación ADC | Ambiente Desarrollo &amp; Calidad">
+<meta name="twitter:image" content="/static/images/projects/project3-main.jpeg">
+<meta name="twitter:title" content="Deporte, salud y oportunidades para jóvenes deportistas – Fundación ADC | Ambiente Desarrollo &amp; Calidad">
+<meta name="twitter:url" content="/projects/deporte-salud-oportunidades-para-jovenes-deportistas">
 
 <meta property="og:title" content="Deporte, salud y oportunidades para jóvenes deportistas – Fundación ADC | Ambiente Desarrollo &amp; Calidad">
 <meta property="og:description" content="Proyecto encaminado a estimular y apoyar a jóvenes entre 19 y 23 años que estuvieron vinculados al fútbol a nivel profesional y que por su edad no lograron continuar con su proceso, pero hoy un Consorcio español y clubes colombianos los evaluará y los llevará a España donde serán calificados y posiblemente vinculados a algún club español.">
 <meta property="og:site_name" content="Fundación ADC | Ambiente Desarrollo &amp; Calidad">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://localhost/projects/deporte-salud-oportunidades-para-jovenes-deportistas">
-<meta property="og:image" content="http://localhost/static/images/social.jpg">    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+<meta property="og:url" content="/projects/deporte-salud-oportunidades-para-jovenes-deportistas">
+<meta property="og:image" content="/static/images/projects/project3-main.jpeg">    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
       <link rel="shortcut icon" href="/static/images/favicon.png">
 
     <link href="/css/composite/global.min.css" rel="stylesheet">
@@ -31,14 +31,14 @@
 <header class="header">
   <nav class="nav">
     <a href="/" aria-label="inicio">
-      <img class="header__image" src="/static/images/logo.png">
+      <img class="header__image" src="/static/images/logo.png" alt="">
     </a>
     <ul class="nav__items">
       <li class="nav__item ">
-      <a href="http://localhost/" aria-label="Inicio">Inicio</a>
+      <a href="/" aria-label="Inicio">Inicio</a>
       </li>
       <li class="nav__item ">
-      <a href="http://localhost/projects/" aria-label="Proyectos">Proyectos</a>
+      <a href="/projects/" aria-label="Proyectos">Proyectos</a>
       </li>
     </ul>
   </nav>
