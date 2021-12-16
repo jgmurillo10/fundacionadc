@@ -1,6 +1,9 @@
 {
   "name": "project_name",
   "private": true,
+  "scripts": {
+    "deploy": "cp ./CNAME ./build/CNAME && gh-pages -d build"
+  },
   "dependencies": {
     "babel-loader": "^8.0.6",
     "babili-webpack-plugin": "^0.1.2",
@@ -16,5 +19,8 @@
   "browserslist": [
     "last 1 version",
     "last 2 iOS versions"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }

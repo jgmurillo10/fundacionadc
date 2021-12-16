@@ -8,8 +8,8 @@ localization:
   default_locale: es
 
 meta:
-  google_analytics_id: "UA-151322260-1"
-  google_site_verification: UBXwgs_twne80Ni2QDtQ_Mcr__iNaWPuJsbDnTjpDFE
+  google_analytics_id: null
+  google_site_verification: null
   image: /static/images/projects/project3.jpeg
   favicon_path: /static/images/favicon.png
 
